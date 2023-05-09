@@ -1,5 +1,5 @@
 # Blood Bank Management System
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
+![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sahil%20Shimpi-red)
 ---
 ## Screenshots
 ### Homepage
@@ -68,13 +68,6 @@ py manage.py makemigrations
 py manage.py migrate
 py manage.py runserver
 ```
-- Now enter following URL in Your Browser Installed On Your Pc
-```
-http://127.0.0.1:8000/
-```
 
 
-## Feedback
-Any suggestion and feedback is welcome. You can message me on facebook
-- [Contact on Facebook](https://fb.com/sumit.luv)
-- [Subscribe my Channel LazyCoder On Youtube](https://youtube.com/lazycoders)
+
